@@ -9,7 +9,7 @@ namespace VinuthaVS
         [TestMethod]
         public void TestMethod1()
         {
-            Console.WriteLine();
+            Console.WriteLine("Hello");
           
         }
     }
